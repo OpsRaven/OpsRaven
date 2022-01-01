@@ -1,0 +1,1 @@
+﻿Set-AudioDevice -RecordingMuteToggle
